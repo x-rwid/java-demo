@@ -8,6 +8,12 @@ import java.util.function.Predicate;
 public class CollectionRmvIf {
     static void main() {
 
+        /*
+        removeIf method yordamida
+        List<String> da hamma null string'larni, bo'w string'larni
+        va 5 ta character'dan uzun string'larni olib tawlaw.
+         */
+
         Predicate<String> isNull = Objects::isNull;
         Predicate<String> isEmpty = String::isEmpty;
         Predicate<String> isNullOrEmpty = isNull.or(isEmpty);
