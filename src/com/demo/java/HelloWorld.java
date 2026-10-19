@@ -1,7 +1,5 @@
 package com.demo.java;
 
-import java.util.List;
-
 public class HelloWorld {
     static void main(String[] args) {
 
