@@ -61,7 +61,7 @@ public class Chmod {
      * <tr>
      *   <td> {@code o=} </td>
      *   <td> Bowqalarga ruxsat yo'qligini o'rnatadi (agar o'rnatilgan bo'lsa,
-     *   bowqalar o'qiwi, yoziwi, ijro etiwi mumkin bo'lgan ruxsatlar olib tawlanadi) </td>
+     *        bowqalar o'qiwi, yoziwi, ijro etiwi mumkin bo'lgan ruxsatlar olib tawlanadi) </td>
      * </tr>
      * </table>
      *
