@@ -7,7 +7,7 @@ package demoioapis;
  * https://docs.oracle.com/javase/tutorial/essential/io/fileOps.html#glob
  * Naqwga mos file yo directory'lar standard out'ga print qilinadi.
  * Mosliklar soni ham print qilinadi.
- * Bu ilovani ijro etiwda glob naqwini qo'wtirnoq iciga oliw kerak, wunda shell hec qanday wild card'larni kengaytirmaydi
+ * Ilovani ijro etiwda glob naqwini qo'wtirnoq iciga oliw kerak, wunda shell wild card'larni kengaytirmaydi:
  * java Find . -name "*.java"
  */
 
