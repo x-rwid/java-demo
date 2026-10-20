@@ -1,4 +1,4 @@
-package demoioputs;
+package demoioapis;
 
 public class PrintfNumeric {
     static void main() {

@@ -1,4 +1,4 @@
-package demoioputs;
+package demoioapis;
 
 import java.io.IOException;
 import java.nio.file.Files;
@@ -6,7 +6,7 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.nio.file.attribute.BasicFileAttributes;
 
-public class BasicFileAttribute {
+public class BasicFileAttr {
     static void main() throws IOException {
 
         Path file = Paths.get("D:/2. java/1. java start/12. ilk dastur/salamdunya/myfirstjavaapp.txt");

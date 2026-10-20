@@ -1,4 +1,4 @@
-package demoioputs;
+package demoioapis;
 
 public class PrintfTable {
     static void main() {

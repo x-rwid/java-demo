@@ -1,4 +1,4 @@
-package demoioputs;
+package demoioapis;
 
 import java.net.URI;
 import java.nio.file.FileSystems;

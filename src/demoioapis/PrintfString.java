@@ -1,4 +1,4 @@
-package demoioputs;
+package demoioapis;
 
 public class PrintfString {
     static void main() {
