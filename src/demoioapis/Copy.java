@@ -17,6 +17,7 @@ import static java.nio.file.StandardCopyOption.REPLACE_EXISTING;
  * Copy'alangan file'lar soni standard out'ga print qilinadi.
  * Ilovani ijro etiw ucun:
  * @code java Copy . new -depth 4
+ * WARNING: dasturni run qiliwda ehtiyat bulin: hamma narsani copy'alaydi.
  */
 
 public class Copy {
