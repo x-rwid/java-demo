@@ -26,7 +26,7 @@ public class Chmod {
      * </blockquote>
      * bu yerda <i>who</i> mos raviwda
      * {@code 'u'}, {@code 'g'}, {@code 'o'}, {@code 'a'}
-     * character'lardan biri yo bir nectasi bo'lib,
+     * character'lardan biri yoki bir nectasi bo'lib,
      * owner (user), group, bowqalarni yo hammasi (owner, group va bowqalar)ni anlatadi.
      *
      * <p> <i>operator</i> bu ruxsatlarni qanday o'zgartiriw kerakligini anlatuvci character:
