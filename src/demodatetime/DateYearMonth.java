@@ -1,6 +1,7 @@
 package demodatetime;
 
 import java.time.Month;
+import java.time.MonthDay;
 import java.time.Year;
 import java.time.YearMonth;
 
@@ -15,8 +16,5 @@ public class DateYearMonth {
 
         YearMonth date3 = YearMonth.of(2012, Month.FEBRUARY);
         System.out.printf("%s: %d%n", date3, date3.lengthOfMonth());
-
-        boolean validLeapYear = Year.of(2028).isLeap();
-        IO.println("2028 yil Kabisa yilimi? "+ validLeapYear);
     }
 }
