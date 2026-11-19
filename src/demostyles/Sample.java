@@ -1,4 +1,4 @@
-package com.demo.java;
+package demostyles;
 
 import java.nio.file.Files;
 import java.nio.file.Path;
